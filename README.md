@@ -3,7 +3,7 @@
 
 **Author:** Don Miller
 
-![alt text](http://url/to/bookapp_pic2.png)
+(http://url/to/bookapp_pic2.png)
 
 ## Description
 
