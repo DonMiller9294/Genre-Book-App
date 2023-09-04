@@ -3,7 +3,7 @@
 
 **Author:** Don Miller
 
-![App Screenshot]/Bookapp/bookapp_pic2.png()
+![alt text](http://url/to/bookapp_pic2.png)
 
 ## Description
 
